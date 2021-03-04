@@ -1,0 +1,64 @@
+body {
+    text-align: center;
+}
+
+.broo {
+    border: 2px solid orange;
+    padding: 0px;
+}
+
+.broo img {
+    width: 100%;
+}
+
+/*#contacts {
+    background-color: chartreuse;
+
+}*/
+
+#contact iframe {
+    width: 100%;
+}
+
+.dude h1 {
+    display: inline;
+}
+
+.dude a {
+    color: red;
+    text-shadow: none;
+}
+
+.movie_head {
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    width: 100%;
+    display: inline-block;
+}
+
+.movie_head i {
+    float: right;
+}
+
+.movie_text span {
+    color: #ff7700;
+}
+
+.bro {
+    margin-top: 13px;
+}
+
+.bro h4 {
+    border-bottom: 1px solid white;
+    padding: 8px;
+}
+
+.bro img {
+    border-radius: 25px;
+}
+
+.bro p{
+    margin-top: 10px;
+}
